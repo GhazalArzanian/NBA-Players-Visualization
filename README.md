@@ -16,8 +16,12 @@ Each visualization is accompanied by a concise description and explanation of th
 Libraries Used:
 
 Pandas
+
 Sci-kit learn
+
 Matplotlib
+
 Ploty
+
 ...
-.
+
