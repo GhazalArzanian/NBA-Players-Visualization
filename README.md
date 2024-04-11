@@ -16,10 +16,9 @@ It includes 6 visualizations using different libraries for the aggregated player
 Each visualization is accompanied by a concise description and explanation of the insights gained.
 Libraries Used:
 
-**Pandas**
-**Sci-kit learn**
-**Matplotlib**
-**Ploty**
-
+**Pandas**  
+**Sci-kit learn**  
+**Matplotlib**  
+**Ploty**  
 ...
 
