@@ -1,9 +1,9 @@
 # NBA-Players-Visualization
 The goal of this project is to analyze the performance of basketball players using data from three CSV files: players.csv, player_data_per_36_min.csv, and teams.csv. The tasks completed in this project include:
 
-#@ Data Loading and Merging
+#### Data Loading and Merging
 
-#@ Data Cleaning:
+### Data Cleaning:
 
 Handled missing values by applying appropriate data imputation methods from the Sci-kit learn library.
 Replaced empty values in the current_team_id column with "Retired" for players with no current team.
