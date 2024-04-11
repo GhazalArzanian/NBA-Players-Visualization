@@ -1,5 +1,5 @@
 # NBA-Players-Visualization
-This project aims to analyze the performance of basketball players using data from three CSV files: players.csv, player_data_per_36_min.csv, and teams.csv. The tasks completed in this project include:
+The goal of this project is to analyze the performance of basketball players using data from three CSV files: players.csv, player_data_per_36_min.csv, and teams.csv. The tasks completed in this project include:
 
 Data Loading and Merging
 
